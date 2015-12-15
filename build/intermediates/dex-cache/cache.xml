@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sanikakulkarni/Downloads/ChatAll-3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/sanikakulkarni/Downloads/ChatAll-3/app/build/intermediates/pre-dexed/debug/classes-f79d2eddfa2bd932d07109e10d3ada364a8e985c.jar" />
+    </item>
+    <item
+        jar="/Users/sanikakulkarni/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/sanikakulkarni/Downloads/ChatAll-3/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-3450104d6a7681ab2465c4a6ea999f08d885bf9f.jar" />
+    </item>
+    <item
+        jar="/Users/sanikakulkarni/Downloads/ChatAll-3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/sanikakulkarni/Downloads/ChatAll-3/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-9d2d8125c79184f978c9d529456dc82b25758f68.jar" />
+    </item>
+    <item
+        jar="/Users/sanikakulkarni/Downloads/ChatAll-3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/sanikakulkarni/Downloads/ChatAll-3/app/build/intermediates/pre-dexed/debug/classes-b46ca2e7f0f00dadd1d75c28f55ba19d7e792041.jar" />
+    </item>
+
+</items>

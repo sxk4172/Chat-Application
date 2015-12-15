@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="102dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="434dp"
+        android:id="@+id/messageHistory"
+        android:background="#3a0af2d4"
+        android:editable="true"
+        />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal">
+
+        <EditText
+            android:layout_width="260dp"
+            android:layout_height="match_parent"
+            android:id="@+id/sendMessage"
+            android:background="#468311ee" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Send"
+            android:id="@+id/send"
+            android:onClick="sendMessage"
+            />
+    </LinearLayout>
+</LinearLayout>
